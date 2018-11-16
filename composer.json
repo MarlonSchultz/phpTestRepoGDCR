@@ -1,0 +1,9 @@
+{
+    "name": "mgbs/php",
+    "description": "gdcr",
+    "require-dev": {
+        "phpunit/phpunit": "^7.4",
+        "php": "^7.2"
+    },
+    "require": {}
+}
